@@ -1,0 +1,12 @@
+[submodule "raia_drogasil"]
+	path = raia_drogasil
+	url = git@github.com:juhdobbin/rd-frontend-challenge.git
+[submodule "skyone"]
+	path = skyone
+	url = git@github.com:juhdobbin/front-end-test.git
+[submodule "banco_pan"]
+	path = banco_pan
+	url = git@github.com:juhdobbin/git-app.git
+[submodule "editora_abril"]
+	path = editora_abril
+	url = git@github.com:juhdobbin/testeabril.git
